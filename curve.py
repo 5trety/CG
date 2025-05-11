@@ -28,7 +28,7 @@ y_fit = polynomial(x_fit)
 
 # 绘制原始点和拟合曲线
 plt.scatter(x_values, y_values, color='red', label='origin points')
-plt.plot(x_fit, y_fit, color='blue', label=f'fitting3 curve (degree={degree})')
+plt.plot(x_fit, y_fit, color='blue', label=f'fitting curve (degree={degree})')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.title('curve and points')
