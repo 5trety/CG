@@ -1,3 +1,5 @@
+#Github 源代码链接：https://github.com/5trety/CG/blob/main/curve.py
+
 import numpy as np
 import matplotlib.pyplot as plt
 
